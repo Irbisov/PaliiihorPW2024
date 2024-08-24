@@ -1,0 +1,12 @@
+№1 Contact name: ihor, phones: , birthday: 21.07.2020.
+№2 Contact name: tana, phones: , birthday: 22.01.2002.
+№3 Contact name: oleg, phones: , birthday: 28.07.2020.
+№4 Contact name: zina, phones: , birthday: 01.08.2002.
+№5 Contact name: vlad, phones: , birthday: 13.07.2020.
+№6 Contact name: tolik, phones: , birthday: 27.07.2002.
+№7 Contact name: vlada, phones: , birthday: 05.08.2020.
+№8 Contact name: vova, phones: , birthday: 06.09.2020.
+№9 Contact name: kiril, phones: , birthday: 01.08.2002.
+№10 Contact name: misha, phones: , birthday: 22.03.1986.
+№11 Contact name: da, phones: , birthday: None.
+№12 Contact name: dasha, phones: 1345678901, birthday: 22.03.1992.
